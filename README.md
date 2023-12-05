@@ -1,4 +1,4 @@
 # Learning-C
-This is me learning C Language
+This is me solving basic problems in C Languagae
 <br>
 Author - Venkata Mahesh Chintala
