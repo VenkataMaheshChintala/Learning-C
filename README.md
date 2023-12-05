@@ -1,4 +1,4 @@
 # Learning-C
-This is me learning C Language
+This is me practising 2-D Arrays in  C Language
 <br>
 Author - Venkata Mahesh Chintala
