@@ -1,4 +1,4 @@
-// it is a sparse matrix if no.of zeroes in amtrix is greater than no.of non-zero elements in the matrix
+// it is a sparse matrix if no.of zeroes in matrix is greater than no.of non-zero elements in the matrix
 #include <stdio.h>
 int main()
 {
